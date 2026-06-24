@@ -44,3 +44,9 @@ The system is deployed on a secure and reliable web server for optimal performan
 
 ## Contribution 👩‍💻
 We welcome contributions from the community to enhance the Course Registration System.
+
+
+## Authors
+
+**Sarah Abu Irmeileh**
+**Asia Shalaldeh**
